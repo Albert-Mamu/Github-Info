@@ -11,7 +11,7 @@ Get information about repos on github in general.
 ## How To Run
 - pip install requests pandas
 - python github_info.py
-Note: GitHub only stores the last 14 days of traffic data.
+- Note: GitHub only stores the last 14 days of traffic data.
 
 ## Output Samples
 - 📊 TRAFFIC SUMMARY (Last 14 days):
