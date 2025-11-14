@@ -4,8 +4,8 @@ Get information about repos on github in general.
 ## Key Features
 - ✅ Views Analytics: Total views, unique visitors, trends
 - ✅ Clones Analytics: Total clones, unique cloners
-- ✅ Referral Sources: Sumber traffic teratas
-- ✅ Popular Paths: File/path paling banyak diakses
+- ✅ Referral Sources: Top traffic sources
+- ✅ Popular Paths: Most accessed files/paths
 - ✅ Trend Analysis: Peak days, averages, patterns
 
 ## How To Run
